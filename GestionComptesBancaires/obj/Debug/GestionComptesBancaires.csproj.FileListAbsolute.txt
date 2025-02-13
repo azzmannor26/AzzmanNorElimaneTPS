@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\GestionComptesBancaires\bin\Debug\GestionComptesBancaires.exe.config
+C:\Users\HP\source\repos\GestionComptesBancaires\bin\Debug\GestionComptesBancaires.exe
+C:\Users\HP\source\repos\GestionComptesBancaires\bin\Debug\GestionComptesBancaires.pdb
+C:\Users\HP\source\repos\GestionComptesBancaires\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HP\source\repos\GestionComptesBancaires\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\source\repos\GestionComptesBancaires\obj\Debug\GestionComptesBancaires.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\GestionComptesBancaires\obj\Debug\GestionComptesBancaires.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\GestionComptesBancaires\obj\Debug\GestionC.0C3CBDD9.Up2Date
+C:\Users\HP\source\repos\GestionComptesBancaires\obj\Debug\GestionComptesBancaires.exe
+C:\Users\HP\source\repos\GestionComptesBancaires\obj\Debug\GestionComptesBancaires.pdb
