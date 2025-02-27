@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\GestionRH\obj\Debug\GestionRH.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\GestionRH\obj\Debug\GestionRH.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\GestionRH\bin\Debug\GestionRH.exe.config
+C:\Users\HP\source\repos\GestionRH\bin\Debug\GestionRH.exe
+C:\Users\HP\source\repos\GestionRH\bin\Debug\GestionRH.pdb
+C:\Users\HP\source\repos\GestionRH\obj\Debug\GestionRH.exe
+C:\Users\HP\source\repos\GestionRH\obj\Debug\GestionRH.pdb

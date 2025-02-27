@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\GestionRH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1167D20B-E90F-4C7E-87C0-9E076EC66585}|GestionRH.csproj|c:\\users\\hp\\source\\repos\\gestionrh\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1167D20B-E90F-4C7E-87C0-9E076EC66585}|GestionRH.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1167D20B-E90F-4C7E-87C0-9E076EC66585}|GestionRH.csproj|c:\\users\\hp\\source\\repos\\gestionrh\\ressourcehumaine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1167D20B-E90F-4C7E-87C0-9E076EC66585}|GestionRH.csproj|solutionrelative:ressourcehumaine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1167D20B-E90F-4C7E-87C0-9E076EC66585}|GestionRH.csproj|c:\\users\\hp\\source\\repos\\gestionrh\\enseignant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1167D20B-E90F-4C7E-87C0-9E076EC66585}|GestionRH.csproj|solutionrelative:enseignant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1167D20B-E90F-4C7E-87C0-9E076EC66585}|GestionRH.csproj|c:\\users\\hp\\source\\repos\\gestionrh\\groupe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1167D20B-E90F-4C7E-87C0-9E076EC66585}|GestionRH.csproj|solutionrelative:groupe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1167D20B-E90F-4C7E-87C0-9E076EC66585}|GestionRH.csproj|c:\\users\\hp\\source\\repos\\gestionrh\\etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1167D20B-E90F-4C7E-87C0-9E076EC66585}|GestionRH.csproj|solutionrelative:etudiant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1167D20B-E90F-4C7E-87C0-9E076EC66585}|GestionRH.csproj|c:\\users\\hp\\source\\repos\\gestionrh\\personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1167D20B-E90F-4C7E-87C0-9E076EC66585}|GestionRH.csproj|solutionrelative:personne.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1167D20B-E90F-4C7E-87C0-9E076EC66585}|GestionRH.csproj|c:\\users\\hp\\source\\repos\\gestionrh\\personnel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1167D20B-E90F-4C7E-87C0-9E076EC66585}|GestionRH.csproj|solutionrelative:personnel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1167D20B-E90F-4C7E-87C0-9E076EC66585}|GestionRH.csproj|c:\\users\\hp\\source\\repos\\gestionrh\\iressourcehumaine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1167D20B-E90F-4C7E-87C0-9E076EC66585}|GestionRH.csproj|solutionrelative:iressourcehumaine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1167D20B-E90F-4C7E-87C0-9E076EC66585}|GestionRH.csproj|c:\\users\\hp\\source\\repos\\gestionrh\\administratif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1167D20B-E90F-4C7E-87C0-9E076EC66585}|GestionRH.csproj|solutionrelative:administratif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1167D20B-E90F-4C7E-87C0-9E076EC66585}|GestionRH.csproj|c:\\users\\hp\\source\\repos\\gestionrh\\directeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1167D20B-E90F-4C7E-87C0-9E076EC66585}|GestionRH.csproj|solutionrelative:directeur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Personne.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\GestionRH\\Personne.cs",
+              "RelativeDocumentMoniker": "Personne.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\GestionRH\\Personne.cs",
+              "RelativeToolTip": "Personne.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:25:00.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Groupe.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\GestionRH\\Groupe.cs",
+              "RelativeDocumentMoniker": "Groupe.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\GestionRH\\Groupe.cs",
+              "RelativeToolTip": "Groupe.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAADwvygAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:34:14.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enseignant.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\GestionRH\\Enseignant.cs",
+              "RelativeDocumentMoniker": "Enseignant.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\GestionRH\\Enseignant.cs",
+              "RelativeToolTip": "Enseignant.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:26:28.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\GestionRH\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\GestionRH\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCMAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:22:57.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Etudiant.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\GestionRH\\Etudiant.cs",
+              "RelativeDocumentMoniker": "Etudiant.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\GestionRH\\Etudiant.cs",
+              "RelativeToolTip": "Etudiant.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:26:00.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RessourceHumaine.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\GestionRH\\RessourceHumaine.cs",
+              "RelativeDocumentMoniker": "RessourceHumaine.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\GestionRH\\RessourceHumaine.cs",
+              "RelativeToolTip": "RessourceHumaine.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAADwvykAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:45:25.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Personnel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\GestionRH\\Personnel.cs",
+              "RelativeDocumentMoniker": "Personnel.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\GestionRH\\Personnel.cs",
+              "RelativeToolTip": "Personnel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:23:59.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRessourceHumaine.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\GestionRH\\IRessourceHumaine.cs",
+              "RelativeDocumentMoniker": "IRessourceHumaine.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\GestionRH\\IRessourceHumaine.cs",
+              "RelativeToolTip": "IRessourceHumaine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:45:46.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Administratif.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\GestionRH\\Administratif.cs",
+              "RelativeDocumentMoniker": "Administratif.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\GestionRH\\Administratif.cs",
+              "RelativeToolTip": "Administratif.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:26:47.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Directeur.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\GestionRH\\Directeur.cs",
+              "RelativeDocumentMoniker": "Directeur.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\GestionRH\\Directeur.cs",
+              "RelativeToolTip": "Directeur.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:26:15.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
